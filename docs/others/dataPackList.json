@@ -1,0 +1,535 @@
+{
+    "Status": 0,
+    "MSISDN": "9971353550",
+    "Offers": [
+        {
+            "offer_category": "AYANTAN DATA",
+            "order": "4",
+            "offers": [
+                {
+                    "OFFER_NO": 1,
+                    "OFFER_ID": "71001241447",
+                    "OFFER_DESC1": "999ks=300MB (30D) +500ks Cashback",
+                    "OFFER_DESC2": "999ks= 300MB for 30days +500ks Cashback",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 999,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "DATA",
+                    "PACK_GROUP": "DATA"
+                },
+                {
+                    "OFFER_NO": 2,
+                    "OFFER_ID": "71001241411",
+                    "OFFER_DESC1": "799ks=240MB (15D)",
+                    "OFFER_DESC2": "799ks= 240MB for 15days",
+                    "VALIDITY": 15,
+                    "PACK_PRICE": 799,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "DATA",
+                    "PACK_GROUP": "DATA"
+                },
+                {
+                    "OFFER_NO": 3,
+                    "OFFER_ID": "710011002470",
+                    "OFFER_DESC1": "899ks=270MB (30D)",
+                    "OFFER_DESC2": "899ks= 270MB for 30days",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 899,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "DATA",
+                    "PACK_GROUP": "DATA"
+                },
+                {
+                    "OFFER_NO": 4,
+                    "OFFER_ID": "71001241413",
+                    "OFFER_DESC1": "1199ks=360MB (30D)",
+                    "OFFER_DESC2": "1199ks= 360MB for 30days",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 1199,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "DATA",
+                    "PACK_GROUP": "DATA"
+                },
+                {
+                    "OFFER_NO": 5,
+                    "OFFER_ID": "71001241414",
+                    "OFFER_DESC1": "1899ks=575MB (30D)",
+                    "OFFER_DESC2": "1899ks= 575MB for 30days",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 1899,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "DATA",
+                    "PACK_GROUP": "DATA"
+                },
+                {
+                    "OFFER_NO": 6,
+                    "OFFER_ID": "71001241415",
+                    "OFFER_DESC1": "2199ks=666MB (30D)",
+                    "OFFER_DESC2": "2199ks= 666MB for 30days",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 2199,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "DATA",
+                    "PACK_GROUP": "DATA"
+                },
+                {
+                    "OFFER_NO": 7,
+                    "OFFER_ID": "71001241416",
+                    "OFFER_DESC1": "2899ks=878MB (30D)",
+                    "OFFER_DESC2": "2899ks= 878MB for 30days",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 2899,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "DATA",
+                    "PACK_GROUP": "DATA"
+                }
+            ],
+            "Total_Offers": 7
+        },
+        {
+            "offer_category": "AYANTAN VOICE",
+            "order": "5",
+            "offers": [
+                {
+                    "OFFER_NO": 8,
+                    "OFFER_ID": "71001239470",
+                    "OFFER_DESC1": "91 Ooredoo Mins (30D)= 999ks",
+                    "OFFER_DESC2": "91 Ooredoo to Ooredoo Mins for 30days= 999ks",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 999,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "VOICE",
+                    "PACK_GROUP": "VOICE"
+                },
+                {
+                    "OFFER_NO": 9,
+                    "OFFER_ID": "71001239444",
+                    "OFFER_DESC1": "91 Ooredoo Mins (30D)= 999ks",
+                    "OFFER_DESC2": "91 Ooredoo to Ooredoo Mins for 30days= 999ks",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 999,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "VOICE",
+                    "PACK_GROUP": "VOICE"
+                },
+                {
+                    "OFFER_NO": 10,
+                    "OFFER_ID": "71001239445",
+                    "OFFER_DESC1": "182 Ooredoo Mins (30D)= 1999ks",
+                    "OFFER_DESC2": "182 Ooredoo to Ooredoo Mins for 30days= 1999ks",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 1999,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "VOICE",
+                    "PACK_GROUP": "VOICE"
+                },
+                {
+                    "OFFER_NO": 11,
+                    "OFFER_ID": "71001239448",
+                    "OFFER_DESC1": "59 All Call Mins (15D)= 999ks",
+                    "OFFER_DESC2": "Get 59 All Call Mins for 999ks. Valid for 15days",
+                    "VALIDITY": 15,
+                    "PACK_PRICE": 999,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "VOICE",
+                    "PACK_GROUP": "VOICE"
+                },
+                {
+                    "OFFER_NO": 12,
+                    "OFFER_ID": "71001239449",
+                    "OFFER_DESC1": "118 All Call Mins (30D)= 1999ks",
+                    "OFFER_DESC2": "118 All Call Mins for 30days= 1999ks",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 1999,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "VOICE",
+                    "PACK_GROUP": "VOICE"
+                },
+                {
+                    "OFFER_NO": 13,
+                    "OFFER_ID": "71001241434",
+                    "OFFER_DESC1": "23 All Call Mins + 200MB (30D)= 999ks",
+                    "OFFER_DESC2": "200MB + 23 All Call Mins for 30days= 999ks",
+                    "VALIDITY": 30,
+                    "PACK_PRICE": 999,
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": "",
+                    "PACK_TYPE": "VOICE",
+                    "PACK_GROUP": "VOICE"
+                }
+            ],
+            "Total_Offers": 6
+        },
+        {
+            "offer_category": "DATA",
+            "order": "1",
+            "offers": [
+                {
+                    "OFFER_NO": 5,
+                    "OFFER_ID": "710011008265",
+                    "OFFER_DESC1": "799Ks_345MB_15D_Bank_WM",
+                    "OFFER_DESC2": "799Ks_345MB_15D_Bank_WM",
+                    "PACK_GROUP": "DATA",
+                    "VALIDITY": "15",
+                    "PACK_PRICE": "799",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 6,
+                    "OFFER_ID": "710011008266",
+                    "OFFER_DESC1": "899Ks_390MB_30D_Bank_WM",
+                    "OFFER_DESC2": "899Ks_390MB_30D_Bank_WM",
+                    "PACK_GROUP": "DATA",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "899",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 7,
+                    "OFFER_ID": "710011008267",
+                    "OFFER_DESC1": "1199Ks_525MB_30D_Bank_WM",
+                    "OFFER_DESC2": "1199Ks_525MB_30D_Bank_WM",
+                    "PACK_GROUP": "DATA",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "1199",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 8,
+                    "OFFER_ID": "710011008269",
+                    "OFFER_DESC1": "4299Ks_1870MB_30D_Bank_WM",
+                    "OFFER_DESC2": "4299Ks_1870MB_30D_Bank_WM",
+                    "PACK_GROUP": "DATA",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "4299",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 2,
+                    "OFFER_ID": "710011008765",
+                    "OFFER_DESC1": "2199Ks_955MB_955MB_Bonus_Bank_WM",
+                    "OFFER_DESC2": "2199Ks_955MB_955MB_Bonus_Bank_WM",
+                    "PACK_GROUP": "DATA",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "2199",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 1,
+                    "OFFER_ID": "71001241429",
+                    "OFFER_DESC1": "999Ks_435MB_30D_Bank_WM",
+                    "OFFER_DESC2": "999Ks_435MB_30D_Bank_WM",
+                    "PACK_GROUP": "DATA",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 3,
+                    "OFFER_ID": "710011009165",
+                    "OFFER_DESC1": "4899Ks_2130MB_2130MB_Bonus_Bank_WM",
+                    "OFFER_DESC2": "4899Ks_2130MB_2130MB_Bonus_Bank_WM",
+                    "PACK_GROUP": "DATA",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "4899",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 4,
+                    "OFFER_ID": "710011009166",
+                    "OFFER_DESC1": "9899Ks_4300MB_4300MB_Bonus_Bank_WM",
+                    "OFFER_DESC2": "9899Ks_4300MB_4300MB_Bonus_Bank_WM",
+                    "PACK_GROUP": "DATA",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "9899",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                }
+            ],
+            "Total_Offers": 8
+        },
+        {
+            "offer_category": "VOICE",
+            "order": "2",
+            "offers": [
+                {
+                    "OFFER_NO": 9,
+                    "OFFER_ID": "710011005265",
+                    "OFFER_DESC1": "999Ks_Allcall_79Mins_15D_Bank_WM",
+                    "OFFER_DESC2": "999Ks_Allcall_79Mins_15D_Bank_WM",
+                    "PACK_GROUP": "VOICE",
+                    "VALIDITY": "15",
+                    "PACK_PRICE": "999",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 10,
+                    "OFFER_ID": "710011005266",
+                    "OFFER_DESC1": "999Ks_Onnet_158Mins_30D_Bank_WM",
+                    "OFFER_DESC2": "999Ks_Onnet_158Mins_30D_Bank_WM",
+                    "PACK_GROUP": "VOICE",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "999",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 11,
+                    "OFFER_ID": "710011010673",
+                    "OFFER_DESC1": "60Min- Thailand/Singapore/India/Japan (7D)",
+                    "OFFER_DESC2": "4999Ks_IDD Asia 1_7D_Bank",
+                    "PACK_GROUP": "VOICE",
+                    "VALIDITY": "7",
+                    "PACK_PRICE": "4999",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 12,
+                    "OFFER_ID": "710011010679",
+                    "OFFER_DESC1": "100Min-Malaysia/South Korea/Bangladesh (7D",
+                    "OFFER_DESC2": "4999Ks_IDD Asia 2_7D_Bank",
+                    "PACK_GROUP": "VOICE",
+                    "VALIDITY": "7",
+                    "PACK_PRICE": "4999",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 13,
+                    "OFFER_ID": "710011010685",
+                    "OFFER_DESC1": "Europe 100Mins (7D)",
+                    "OFFER_DESC2": "4999Ks_IDD Europe 9_7D_Bank",
+                    "PACK_GROUP": "VOICE",
+                    "VALIDITY": "7",
+                    "PACK_PRICE": "4999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 14,
+                    "OFFER_ID": "710011010691",
+                    "OFFER_DESC1": "USA & Canada 100Mins (7D)",
+                    "OFFER_DESC2": "4999Ks_IDD USA_Canada_7D_Bank",
+                    "PACK_GROUP": "VOICE",
+                    "VALIDITY": "7",
+                    "PACK_PRICE": "4999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 15,
+                    "OFFER_ID": "710011010676",
+                    "OFFER_DESC1": "25Min- Thailand/Singapore/India/Japan (3D)",
+                    "OFFER_DESC2": "2999Ks_IDD Asia 1_3D_Bank",
+                    "PACK_GROUP": "VOICE",
+                    "VALIDITY": "3",
+                    "PACK_PRICE": "2999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 16,
+                    "OFFER_ID": "710011010682",
+                    "OFFER_DESC1": "50Min-Malaysia/South Korea/Bangladesh (3D)",
+                    "OFFER_DESC2": "2999Ks_IDD Asia 2_3D_Bank",
+                    "PACK_GROUP": "VOICE",
+                    "VALIDITY": "3",
+                    "PACK_PRICE": "2999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                }
+            ],
+            "Total_Offers": 8
+        },
+        {
+            "offer_category": "Data-Buffet",
+            "order": "5",
+            "offers": [
+                {
+                    "OFFER_NO": 11,
+                    "OFFER_ID": "710011009565",
+                    "OFFER_DESC1": "1999ks_865MB_30 Days_Tiktok_WM",
+                    "OFFER_DESC2": "1999ks_865MB_30 Days_Tiktok_WM",
+                    "PACK_GROUP": "DATA-Buffet",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "1999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 12,
+                    "OFFER_ID": "710011009571",
+                    "OFFER_DESC1": "1999ks_865MB_30 Days_Telegram_WM",
+                    "OFFER_DESC2": "1999ks_865MB_30 Days_Telegram_WM",
+                    "PACK_GROUP": "DATA-Buffet",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "1999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 13,
+                    "OFFER_ID": "710011009577",
+                    "OFFER_DESC1": "1999ks_865MB_30 Days_Youtube_WM",
+                    "OFFER_DESC2": "1999ks_865MB_30 Days_Youtube_WM",
+                    "PACK_GROUP": "DATA-Buffet",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "1999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 14,
+                    "OFFER_ID": "710011009583",
+                    "OFFER_DESC1": "1999ks_865MB_30 Days_MLBB/PUBG_WM",
+                    "OFFER_DESC2": "1999ks_865MB_30 Days_MLBB/PUBG_WM",
+                    "PACK_GROUP": "DATA-Buffet",
+                    "VALIDITY": "30",
+                    "PACK_PRICE": "1999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                }
+            ],
+            "Total_Offers": 4
+        },
+        {
+            "offer_category": "Roaming",
+            "order": "4",
+            "offers": [
+                {
+                    "OFFER_NO": 15,
+                    "OFFER_ID": "710011010071",
+                    "OFFER_DESC1": "Thailand 1GB (3D)",
+                    "OFFER_DESC2": "Thai_1GB_3D_9999Ks",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "3 ",
+                    "PACK_PRICE": "9999 ",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 16,
+                    "OFFER_ID": "71001117473",
+                    "OFFER_DESC1": "Thailand 2GB+60 Mins+20 SMS (7D)",
+                    "OFFER_DESC2": "Thailand Roaming Pack 25000ks",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "7 ",
+                    "PACK_PRICE": "25000",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 17,
+                    "OFFER_ID": "71001154421",
+                    "OFFER_DESC1": "China 1GB (7D)",
+                    "OFFER_DESC2": "China Data Roam 15999 Ks",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "7 ",
+                    "PACK_PRICE": "15999",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 18,
+                    "OFFER_ID": "71001132429",
+                    "OFFER_DESC1": "Singapore 1GB (7D)",
+                    "OFFER_DESC2": "Singapore Data Roam 1GB",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "7 ",
+                    "PACK_PRICE": "8999 ",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 19,
+                    "OFFER_ID": "71001132426",
+                    "OFFER_DESC1": "India 1GB (7D)",
+                    "OFFER_DESC2": "India Data Roam 1GB",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "7 ",
+                    "PACK_PRICE": "9999 ",
+                    "OFFER_TAG": "Best Deal",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 20,
+                    "OFFER_ID": "71001117478",
+                    "OFFER_DESC1": "Qatar 1GB+35 Mins+10 SMS (7D)",
+                    "OFFER_DESC2": "Qatar Roaming Passport 15000ks",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "7 ",
+                    "PACK_PRICE": "15000",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 21,
+                    "OFFER_ID": "71001132431",
+                    "OFFER_DESC1": "Indonesia 1GB (7D)",
+                    "OFFER_DESC2": "Indonesia Data Roam 1GB",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "7 ",
+                    "PACK_PRICE": "6999 ",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 22,
+                    "OFFER_ID": "71001132432",
+                    "OFFER_DESC1": "Indonesia 3GB (7D)",
+                    "OFFER_DESC2": "Indonesia Data Roam 3GB",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "7 ",
+                    "PACK_PRICE": "19999",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 23,
+                    "OFFER_ID": "710011008867",
+                    "OFFER_DESC1": "USA 1MB=75Ks (14D)",
+                    "OFFER_DESC2": "75Ks_USA Roaming Data Pack 14 Days with 2500Ks",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "14",
+                    "PACK_PRICE": "2500 ",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                },
+                {
+                    "OFFER_NO": 24,
+                    "OFFER_ID": "710011008865",
+                    "OFFER_DESC1": "Europe 1MB=100Ks (14D)",
+                    "OFFER_DESC2": "100Ks_Europe Roaming Data Pack 14 Days with 2999Ks",
+                    "PACK_GROUP": "Roaming",
+                    "VALIDITY": "14",
+                    "PACK_PRICE": "2999 ",
+                    "OFFER_TAG": "",
+                    "OFFER_TAG_MM": ""
+                }
+            ],
+            "Total_Offers": 10
+        }
+    ],
+    "Total_Offers": 6
+}
