@@ -1,30 +1,6 @@
-// import { toast } from "vue3-toastify";
-// import "vue3-toastify/dist/index.css";
+
 import Swal from 'sweetalert2/dist/sweetalert2.js'
 // import 'sweetalert2/src/sweetalert2.scss'
-
-
-// const successAlert = (message, name = null) => {
-//     toast.success(
-//         `<span style="color: green; font-weight: bold;">${name}</span> ${message}`,
-//         {
-//             autoClose: 2000,
-//             position: toast.POSITION.BOTTOM_RIGHT,
-//             dangerouslyHTMLString: true,
-//         }
-//     );
-// }
-
-// const errorAlert = (message, name = 'Ohh!!') => {
-//     toast.error(
-//         `<span style="color: red; font-weight: bold;">${name}</span> ${message}`,
-//         {
-//             autoClose: 2000,
-//             position: toast.POSITION.BOTTOM_RIGHT,
-//             dangerouslyHTMLString: true,
-//         }
-//     );
-// }
 
 const sweetAlert = (title, text, icon = 'success') => {
     Swal.fire({
@@ -62,9 +38,29 @@ const toastSwal = (title, icon = 'success') => {
     });
 }
 
+
+const confirmAlert = (
+    callBack,
+    title = "Are you sure?",
+    text = "You won't be able to revert this!",
+    confirmButtonText = "Yes, delete it!"
+) => {
+    Swal.fire({
+        title,
+        text,
+        icon: "warning",
+        showCancelButton: true,
+        confirmButtonColor: "#3085d6",
+        cancelButtonColor: "#d33",
+        confirmButtonText,
+    }).then((result) => {
+        if (result.isConfirmed) {
+            callBack();
+        }
+    });
+};
 export {
-    // successAlert,
-    // errorAlert,
+    confirmAlert,
     sweetAlert,
     toastSwal
 }
